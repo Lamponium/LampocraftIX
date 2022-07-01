@@ -1,0 +1,20 @@
+itemGroup.starlightAlchemyTab=Starlight Alchemy
+itemGroup.starlightRunicTab=Starlight Runecarving
+itemGroup.starlightItemsTab=Starlight Items
+
+item.contenttweaker.luxumia_extract.name=Extract of Luxumia
+item.contenttweaker.cozumis_extract.name=Extract of Cozumis
+item.contenttweaker.zurobis_extract.name=Extract of Zurobis
+
+item.contenttweaker.warus_rune.name=Warus Rune
+item.contenttweaker.murtosis_rune.name=Murtosis Rune
+item.contenttweaker.arc_rune.name=Arc Rune
+item.contenttweaker.cholus_rune.name=Cholus Rune
+
+item.contenttweaker.solar_diamond.name=Solar Diamond
+item.contenttweaker.blood_diamond.name=Blood Diamond
+
+item.contenttweaker.arcane_circuit.name=Arcane Circuit
+item.contenttweaker.psi_iron_plate.name=Psimetall Plate
+item.contenttweaker.psi_ivory_plate.name=Ivory Psimetall Plate
+item.contenttweaker.psi_ebony_plate.name=Ebony Psimetall Plate

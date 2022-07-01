@@ -1,0 +1,20 @@
+itemGroup.starlightAlchemyTab=Звёздная Алхимия
+itemGroup.starlightRunicTab=Звёздное Вырезание Рун
+itemGroup.starlightItemsTab=Звёздные Предметы
+
+item.contenttweaker.luxumia_extract.name=Экстракт Люксумии
+item.contenttweaker.cozumis_extract.name=Экстракт Козумиса
+item.contenttweaker.zurobis_extract.name=Экстракт Зуробиса
+
+item.contenttweaker.warus_rune.name=Руна Варуса
+item.contenttweaker.murtosis_rune.name=Руна Муртосиса
+item.contenttweaker.arc_rune.name=Арковая Руна
+item.contenttweaker.cholus_rune.name=Руна Холуса
+
+item.contenttweaker.solar_diamond.name=Солнечный бриллиант
+item.contenttweaker.blood_diamond.name=Кровавый бриллиант
+
+item.contenttweaker.arcane_circuit.name=Магическая схема
+item.contenttweaker.psi_iron_plate.name=Пластина из Пси-металла
+item.contenttweaker.psi_ivory_plate.name=Пластина из светлого Пси-металла
+item.contenttweaker.psi_ebony_plate.name=Пластина из темного Пси-металла

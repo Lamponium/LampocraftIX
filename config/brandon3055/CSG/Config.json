@@ -1,0 +1,8 @@
+{
+  "inventory": {
+    "0:5": "harvestcraft:pizzaitem,4",
+    "0:8": "akashictome:tome",
+    "0:6": "naturescompass:naturescompass,1,0,{}",
+    "0:7": "antiqueatlas:empty_antique_atlas"
+  }
+}

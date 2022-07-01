@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 3,
+  "clickedVisualize": false,
+  "bookData": {
+    "roots:roots_guide": {
+      "viewedEntries": [
+        "roots:concepts/introduction"
+      ],
+      "bookmarks": [],
+      "history": [
+        "roots:concepts/introduction"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
